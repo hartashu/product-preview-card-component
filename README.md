@@ -27,11 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
 ![Design preview for the Product preview card component coding challenge - Desktop](./screenshot-desktop.jpg)
-
-Mobile
-![Design preview for the Product preview card component coding challenge - Mobile](./screenshot-mobile.jpg)
 
 ### Links
 
