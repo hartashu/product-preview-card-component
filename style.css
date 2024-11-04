@@ -69,6 +69,10 @@ img {
   max-inline-size: 100%;
 }
 
+.product-image {
+  display: block;
+}
+
 .product-description-container {
   padding: 24px;
 }
