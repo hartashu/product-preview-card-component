@@ -103,5 +103,5 @@ Responsive Web Design (RWB):
 ## Acknowledgments
 
 Thanks to everyone who kindly and heartedly share knowledges all over the internet.
-And also thanks to @KapteynUniverse for giving such a very valuable input.
+And also thanks to [@KapteynUniverse](https://github.com/KapteynUniverse) for giving such a very valuable input.
 
